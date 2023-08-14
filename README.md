@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Aditya Dutt
 - 👀 I’m interested in Robotics and Control, Computational Mechanics/Physics and Game Development
-- 🌱 I am currently a Senior in Engineering Mechanics at University of Illinois Urbana-Champaign
+- 🌱 I am an incoming Master's student in Mechanical Engineering at Stanford University
 - 💞️ Feel free to look into some of the projects I have worked on solo as well as in a group!
-- 📫 How to reach me: asdutt2@illinois.edu
+- 📫 How to reach me: asdutt2@stanford.edu
 
 <!---
 adityadutt09/adityadutt09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
